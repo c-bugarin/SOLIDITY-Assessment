@@ -10,7 +10,7 @@ This program is a simple smart contract written in Solidity, a programming langu
 
 ### Installing
 
-*You can download my file here in Github
+You can download my file here in Github (https://github.com/c-bugarin/Solidity-Assessment/tree/main)
 
 ### Executing program
 
@@ -18,7 +18,6 @@ To run this program, you can use Remix, an online Solidity IDE. To get started, 
 
 Once you are on the Remix website, create a new workspace, after that create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., MyToken.sol). Copy and paste the following code into the file:
 
-```
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.8.18;
 
@@ -47,21 +46,12 @@ contract myToken {
    }
 }
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
 ## Authors
 
 Contributors names and contact info
 
 Bugarin, Catherine  
-[@DomPizzie](https://twitter.com/dompizzie)
-
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under Bugarin, Catherine. License - see the LICENSE.md file for details
